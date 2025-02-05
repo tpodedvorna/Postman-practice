@@ -4,7 +4,7 @@ This repository contains my Postman practice collection, where I wrote and used 
 
 ## How to Use
 
-1. Download the collection file: [Practice Postman.postman_collection.json](https://github.com/tpodedvorna/Postman-practice/blob/main/Practice%20Postman%20[Tetiana%20Podevdorna].postman_collection.json).
+1. Download the collection file: [https://github.com/tpodedvorna/Postman-practice/blob/main/Practice%20Postman%20%5BTetiana%20Podedvorna%5D.postman_collection.json](url).
 2. Open **Postman**.
 3. Go to **File → Import**.
 4. Upload the `.json` file.
